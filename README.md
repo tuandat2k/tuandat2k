@@ -5,4 +5,4 @@
 
 - ✍ I'm a final-year student of: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
 
-- 🌱 I’m currently learning to become Jave Developer**
+- 🌱 I’m currently learning to become Java Developer**
